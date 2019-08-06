@@ -2,7 +2,7 @@
 
 ---
 
-## Add Some Slide Candy
+## What are we gonna see today?
 
 ![](assets/img/presentation.png)
 
